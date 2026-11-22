@@ -522,7 +522,7 @@
             <item name="`eSpeed I`f Artifact" material="351" damage="11" lore="`9ⓘ `7Grants you `fSpeed I`7 for `eInfinity" amount="1" price="300" currency="emerald" consumable="zzuf-speed" prevent-sharing="true"/>
             <item name="`aJump Boost I`f Artifact" material="351" damage="10" lore="`9ⓘ `7Grants you `fJump Boost I`7 for `eInfinity" amount="1" price="900" currency="emerald" consumable="zzuf-boost" prevent-sharing="true"/>
             <item name="`cFire Resistance`f Artifact" material="351" damage="1" lore="`9ⓘ `7Grants you `fFire Resistance`7 for `eInfinity" amount="1" price="1200" currency="emerald" consumable="zzuf-fireres" prevent-sharing="true"/>
-            <item name="`9Super`f Artifact" material="351" damage="4" lore="`9ⓘ `7Grants you `fJump Boost II`7 and `fSpeed II`7 for `eInfinity" amount="1" price="2400" currency="emerald" consumable="zzuf-super" prevent-sharing="true"/>
+            <item name="`9Super`f Artifact" material="351" damage="4" lore="`9ⓘ `7Grants you `fJump Boost II`7 and `fSpeed II`7 for `eInfinity" amount="1" price="2300" currency="emerald" consumable="zzuf-super" prevent-sharing="true"/>
         </category>
         <category id="shop-special" name="`6Special Items" material="349" damage="3">
             <item name="`2Fugu" material="349" damage="3" lore="`9ⓘ `7Grants you `fWither`7 for `e2 seconds|`8Professionally prepared by zzuf" amount="1" price="70" currency="emerald" consumable="zzuf-wither" prevent-sharing="true"/>
